@@ -6,7 +6,7 @@
 .container1{
     width: 135%;
     height: 150vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)), url(image/option\ 4.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)), url(option 4.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
@@ -87,19 +87,19 @@ button{
 }
 .card1{
     width: 230px;
-    background-image: url(image/websitedesign.PNG); 
+    background-image: url(websitedesign.PNG); 
 }
 .card2{
     width: 230px;
-    background-image: url(image/data\ analyst2.jpg); 
+    background-image: url(data\ analyst2.jpg); 
 }
 .card3{
     width: 230px;
-    background-image: url(image/analytics.jpg);  
+    background-image: url(analytics.jpg);  
 }
 .card4{
     width: 230px;
-    background-image: url(image/advertisement.PNG);  
+    background-image: url(advertisement.PNG);  
 }
 .card:hover{
     transform: translateY(-10px);
