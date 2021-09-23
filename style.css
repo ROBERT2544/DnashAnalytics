@@ -6,7 +6,7 @@
 .container1{
     width: 135%;
     height: 150vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)), url(option\ 4.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)), url(option.jpg);
     background-position: center;
     background-size: cover;
     padding-left: 8%;
